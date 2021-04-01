@@ -1,5 +1,6 @@
 {
-    "name": "intervr.ts.unirx",
+    "name": "bckworks.unirx",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
